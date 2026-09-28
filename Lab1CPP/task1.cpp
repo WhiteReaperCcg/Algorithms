@@ -48,7 +48,7 @@ int main(int argc, char* argv[])
         }
     }
 
-    cout << count << endl;
+    cout << count << " ";
 
     for (size_t i = 0; i < size; i++)
     {
